@@ -1,18 +1,24 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
       <title>Task 2</title>
 </head>
 <body>
-      <h1><u>Third Task(Image,list & Table)</u></h1>
-      <a href="https://m.instagram.com/"><img src="https://www.instagram.com/images/fb_icon_325x325.png" width="100" alt="image"></a>
-      <p><a href="https://www.youtube.com/">This word</a> is a link to Youtube.</p>
+      <h1>Image,list & Table</h1>
+      <a href="https://m.facebook.com/"><img src="https://www.facebook.com/images/fb_icon_325x325.png" width="100" alt="image"></a>
+      <p><a href="https://www.google.com/">This word</a> is a link to another site.</p>
       <ul>
            <li>Item 01</li>
            <li>Item 02</li>
       </ul>
       <table style="border:solid" border="1" width="300px" height="50px" align="center">
-            <tr><td>Head 01</td><td>Head 02</td></tr><tr><td>Title 01</td><td>Title 02</td></tr>
+        <tr>
+          <th>Head 01</th><th>Head02</th>
+        </tr>
+        <tr>
+          <td>Title 01</td><td>Title 02</td>
+        </tr>
       </table>
 </body>
 </html>
